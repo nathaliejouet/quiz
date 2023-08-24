@@ -19,7 +19,7 @@ Après avoir joué, l'utilisateur accède à son score et au 5 meilleurs scores 
 
 ## API
 
-<g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Weather-APP utilise une API francophone participative : https://quizzapi.jomoreschi.fr/.
+<g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Quiz-APP utilise une API francophone participative : https://quizzapi.jomoreschi.fr/.
 
 ## Langages & Frameworks
 

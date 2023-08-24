@@ -1,0 +1,18 @@
+{
+  "difficulties": {
+    "facile": "Facile",
+    "normal": "Normal",
+    "difficile": "Difficile"
+  },
+  "themes": {
+    "tv_cinema": "TV Cinéma",
+    "art_litterature": "Art Littérature",
+    "musique": "Musique",
+    "culture_generale": "Culture Génerale",
+    "sport": "Sport",
+    "jeuxVideos": "Jeux Vidéos"
+  },
+  "error": {
+    "requiredResponse": "Merci de sélectionner une réponse "
+  }
+}

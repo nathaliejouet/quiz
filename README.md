@@ -28,3 +28,5 @@ Après avoir joué, l'utilisateur accède à son score et au 5 meilleurs scores 
 🌀 Recoil
 
 <g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> MUI
+
+[Version déployée](https://fanciful-sawine-54b1a6.netlify.app/)
